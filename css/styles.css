@@ -76,3 +76,25 @@
   color: #ffffff;
 }
 
+.descriptionbox {
+  padding: 100px;
+}
+
+.description_title {
+  margin: 0 auto 50px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+}
+
+.description {
+  max-width: 540px;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #727272;
+}
