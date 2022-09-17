@@ -98,3 +98,48 @@
   text-align: center;
   color: #727272;
 }
+
+.list_bckgrnd {
+  padding: 100px;
+  background: #34547a;
+}
+
+.listbox {
+  padding: 0;
+}
+
+.list {
+  display: inline-block;
+  /* width: 141px;
+  height: 50px; */
+}
+
+.list_img {
+  width: 50px;
+  height: 50px;
+}
+
+.list_content {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.list_number {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 25px;
+  color: #ffffff;
+  vertical-align: top;
+}
+
+.list_text {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  color: #ffffff;
+  vertical-align: top;
+}
+
