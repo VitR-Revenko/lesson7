@@ -173,3 +173,23 @@
   height: 600px;
   margin: 0 auto;
 }
+
+.foot {
+  padding: 50px;
+  background: #34547a;
+}
+
+.foot_title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.foot_text {
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  line-height: 21px;
+  color: #ffffff;
+}
