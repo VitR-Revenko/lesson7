@@ -169,8 +169,8 @@
 
 .video {
   display: block;
-  width: 1110px;
-  height: 600px;
+  max-width: 1110px;
+  max-height: 600px;
   margin: 0 auto;
 }
 
